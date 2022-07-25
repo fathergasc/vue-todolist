@@ -22,6 +22,7 @@ li:hover {
 
 .delete {
     cursor: pointer;
+    padding: 5px 8px;
 }
 
 .list-group-item {
